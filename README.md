@@ -1,4 +1,8 @@
-#
+# 本週作業：TOI 練習賽 202111 場
+
+1. 檔案分類（files.cpp）
+2. 洗牌（Cards.cpp）
+3. 帶動商機（Business.cpp）
 
 ---
 
