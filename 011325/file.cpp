@@ -48,7 +48,7 @@ int main() {
 		}
 	}
 	
-	for (int i = 0; i < team.size(); i++) {
+	for (int i = j; i < team.size(); i++) {
 		cout << team[i] << " " << times[i] << endl;
 	}
 }
